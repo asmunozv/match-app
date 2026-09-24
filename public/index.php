@@ -1,6 +1,0 @@
-<?php require 'config.php'; ?>
-<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Match 💘</title><link rel="stylesheet" href="style.css"></head>
-<body><main class="shell">
-<section class="hero"><div class="heart">💘</div><h1>Match</h1><p>Conoce personas con valores, gustos y formas de relacionarse compatibles contigo.</p>
-<div class="actions"><a class="btn" href="register.php">Crear cuenta</a><a class="btn ghost" href="login.php">Iniciar sesión</a></div>
-<p class="small">30 preguntas • compatibilidad personalizada • perfiles</p></section></main></body></html>
